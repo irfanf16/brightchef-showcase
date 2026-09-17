@@ -7,7 +7,7 @@ AI-generated recipes and meal planning, with generation queued through Horizon s
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Backend engineer — AI pipeline, queue architecture and domain modelling.
+Backend engineer
 
 ## Engineering highlights
 
