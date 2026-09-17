@@ -20,12 +20,6 @@ Backend engineer
 **API-first.** Sanctum-authenticated API designed for a mobile client.
 
 
-## Screenshots
-
-<!-- ![Recipe Generation](docs/recipe-generation.png) -->
-<!-- ![Meal Plan](docs/meal-plan.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
